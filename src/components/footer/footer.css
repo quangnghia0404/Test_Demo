@@ -1,0 +1,150 @@
+.footer{
+   background: #0E50A414;
+   height: auto;
+
+}
+
+.img-logo{
+    height: 83px;
+    width: 249px;
+    padding-top: 34px;
+    margin-bottom: 22px;
+    margin-left: 50px;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 35px;
+}
+
+.footer-top-left{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #0E50A4;
+}
+
+.desc-footer{
+    width: 667px;
+}
+
+.footer-top-right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.footer-top-right h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #0E50A4;
+    padding-bottom: 23px;
+}
+
+.footer-top-right ul{
+    text-align: center;
+    padding: 0px;
+}
+
+.footer-top-right li{
+    list-style: none;
+    text-decoration:none;
+    color: #0E50A4;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    padding-bottom: 17px ;
+    text-align: left;
+}
+
+.footer-links2{
+    padding-left: 42px;
+}
+
+.footer-links3{
+    padding-left: 52px;
+    margin-top: -37px;
+}
+
+.hr{
+    width: auto;
+    background-color: #0E50A4;
+    margin-left: 58px;
+    margin-right: 51px;
+    margin-top: -3px;
+}
+
+.footer-bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 54px;
+    padding-right: 124px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #0E50A4;
+}
+
+.footer-bottom h2{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.footer-bottom-left{
+    width: 663px;
+}
+
+.footer-logo{
+    height: 75px;
+    width: 197px;
+    margin-top: 22px;
+}
+
+.footer-social{
+    margin-top: 37px;
+}
+
+.fb{
+    padding-right: 20.16px;
+}
+.pay1{
+    padding-right: 13.16px;
+}
+.pay2{
+    padding-right: 13.16px;
+}
+.pay3{
+    padding-right: 13.16px;
+}
+
+.ud1{
+    padding-right: 17px;   
+}
+.footer-pay{
+    margin-top: 23px;
+}
+
+.footer-bottom-right{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 21px;
+    color: #0E50A4;
+}
